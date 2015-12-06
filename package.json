@@ -1,0 +1,22 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "A simple Node server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinlanzon/node-server.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Kevin Lanzon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinlanzon/node-server/issues"
+  },
+  "homepage": "https://github.com/kevinlanzon/node-server#readme"
+}
